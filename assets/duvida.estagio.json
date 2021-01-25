@@ -1,0 +1,168 @@
+{
+  "id": "20abcafa-dd35-4fe5-8af7-2649372b045e",
+  "name": "duvida.estagio",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "condition": "",
+          "speech": "O estágio é o ato educativo escolar supervisionado, desenvolvido no ambiente de trabalho, que visa à preparação para o trabalho produtivo do estudante. O estágio integra o itinerário formativo do educando e faz parte do projeto pedagógico do curso."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "384cd1ad-3071-4595-ba05-e45265ae885d",
+      "data": [
+        {
+          "text": "Estagio",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "60438e11-734c-4a6c-9af7-d76bf324c20d",
+      "data": [
+        {
+          "text": "estagio oq é",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "cfcc7c81-d4ff-4fc3-a3e5-cbef17f041fe",
+      "data": [
+        {
+          "text": "estagio o que é",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "862b1694-b46a-4962-a1c5-85e39aafc39e",
+      "data": [
+        {
+          "text": "estagio",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "18c63b8b-f7ff-4e4d-822b-72953c814044",
+      "data": [
+        {
+          "text": "O q é estagio?",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "b3fc9b7b-6a19-4bd7-8ff3-092c83c6ee6f",
+      "data": [
+        {
+          "text": "Oq e estagio",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "a6b15795-11a9-4b71-93b5-a916b8a61722",
+      "data": [
+        {
+          "text": "O que e estagio",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "e82d7e7d-bb0d-48ce-a411-5a8e9e745197",
+      "data": [
+        {
+          "text": "O que é estagio?",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "1261d7be-57cd-4a73-bfd0-efd57237c1ff",
+      "data": [
+        {
+          "text": "Estágio",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    },
+    {
+      "id": "91b00743-430b-4f9f-9590-b3575615663c",
+      "data": [
+        {
+          "text": "O que é estágio?",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 0,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "liveAgentHandoff": false,
+  "endInteraction": false,
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "templates": []
+}
